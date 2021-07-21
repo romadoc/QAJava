@@ -1,4 +1,4 @@
-package fundamentals.changename;
+package fundamentals.greetuser;
 
 import java.util.Scanner;
 

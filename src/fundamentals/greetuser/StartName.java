@@ -1,4 +1,4 @@
-package fundamentals.changename;
+package fundamentals.greetuser;
 
 public class StartName {
     public static void main(String[] args) {
