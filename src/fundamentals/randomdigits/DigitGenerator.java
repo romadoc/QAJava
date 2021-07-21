@@ -22,7 +22,7 @@ public class DigitGenerator {
         return arrayOut;
     }
 
-    public void printResult() {
+    public void startSolution() {
         int[] arrayOfDigits = createSolution(digits, outputType);
     }
 

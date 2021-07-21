@@ -9,6 +9,6 @@ public class StartMainUnit {
         Menu menu = new Menu();
         menu.startMainUnit();
         DigitGenerator digitGenerator = new DigitGenerator(menu.getDigitQuantity(), menu.getCaretType());
-        digitGenerator.printResult();
+        digitGenerator.startSolution();
     }
 }
