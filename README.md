@@ -8,8 +8,8 @@
 В настоящее время преподаю патологическую анатомию студентам факультета подготовки специалистов зарубежных стран в ГГМУ (Индия, Шри-Ланка).  
 Язык: русский, английский   
 # 2-й Уровень обучения. Ссылки на домашние задания 
-* [threads](threads/src)  
-* [webdriver](webdriver/src)  
-* [framework](framework/src)
+* [threads](threads/)  
+* [webdriver](webdriver/)  
+* [framework](framework/)
 
 
