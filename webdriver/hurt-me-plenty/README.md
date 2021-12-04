@@ -21,6 +21,14 @@
     * Commited usage: 1 Year
 7. Нажать Add to Estimate
 8. Проверить соответствие данных следующих полей: VM Class, Instance type, Region, local SSD, commitment term
-9. Проверить что сумма аренды в месяц совпадает с суммой получаемой при ручном прохождении теста.
+9. Проверить что сумма аренды в месяц совпадает с суммой получаемой при ручном прохождении теста.   
+
+Скриншоты выполненного задания   
+
+
+![calculator is OK](img/calculatorResult.jpg)   
+![tests are passed](img/allTestsArePassed.jpg)   
+
+
 
 
